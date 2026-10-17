@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/flame-banner.svg" alt="Rengoku9000 — Set your heart ablaze" width="100%" />
+<img src="assets/flame-banner.gif" alt="Animated Rengoku9000 banner with rising flames, drifting embers, and a typing tagline" width="100%" />
 
 ### 🔥 Kunal | AI & ML Engineer in the making
 
