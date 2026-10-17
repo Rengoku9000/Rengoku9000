@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Rengoku9000 flame banner</title>
+  <desc id="desc">A dark red banner with rising orange and yellow flames and the text Rengoku9000.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#1b0b0d"/>
+      <stop offset="0.55" stop-color="#5f1516"/>
+      <stop offset="1" stop-color="#250b0b"/>
+    </linearGradient>
+    <linearGradient id="flame" x2="0" y2="1">
+      <stop stop-color="#fff3a0"/>
+      <stop offset="0.35" stop-color="#ffb62e"/>
+      <stop offset="1" stop-color="#e53922"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="14"/></filter>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="url(#background)"/>
+  <path d="M0 248 Q40 225 60 190 Q83 220 83 240 Q120 215 125 150 Q170 206 157 253 Q220 200 205 130 Q260 181 245 242 Q290 213 307 163 Q340 214 326 260 Q390 216 383 171 Q440 231 420 264 Q490 216 476 146 Q530 199 512 256 Q580 218 568 166 Q620 223 603 264 Q665 207 651 148 Q710 205 692 257 Q760 215 748 163 Q805 220 786 265 Q852 211 840 139 Q902 205 883 258 Q950 211 938 166 Q992 216 978 264 Q1045 208 1034 143 Q1091 202 1072 254 Q1132 217 1120 175 Q1172 228 1200 240 L1200 300 L0 300 Z" fill="#ef4a21" opacity="0.35" filter="url(#glow)"/>
+  <path d="M0 269 Q35 243 52 205 Q78 245 70 266 Q114 239 120 179 Q157 222 143 268 Q202 224 198 155 Q247 212 226 269 Q285 234 299 186 Q328 231 316 271 Q372 230 375 195 Q423 241 405 273 Q468 222 463 169 Q511 217 496 273 Q552 232 560 189 Q607 238 589 272 Q648 227 642 171 Q695 225 679 272 Q738 231 742 190 Q788 236 773 273 Q832 225 834 161 Q889 222 871 274 Q930 229 936 190 Q984 234 968 274 Q1033 223 1026 168 Q1084 224 1065 274 Q1123 232 1125 195 Q1166 243 1200 255 L1200 300 L0 300 Z" fill="url(#flame)"/>
+  <rect x="25" y="25" width="1150" height="250" rx="12" fill="none" stroke="#ffcc63" stroke-width="2" opacity="0.55"/>
+  <text x="600" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="67" font-weight="800" letter-spacing="4" fill="#fff6dc">RENGOKU9000</text>
+  <text x="600" y="177" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="700" letter-spacing="7" fill="#ffd36b">SET YOUR HEART ABLAZE</text>
+</svg>
